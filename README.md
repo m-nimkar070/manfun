@@ -15,6 +15,12 @@ Currently, two official plugins are available:
 ### Run command to start
 `npm run dev`
   
+## Table with year, Crop with Maximum Production and Crop with Minimum Production
+![Table](./src//assets/TableContent.png)
+
+## Table with year, Crop with Maximum Production and Crop with Minimum Production
+![BarChart](./src/assets/BarChart.png)
+
 
 ## Expanding the ESLint configuration
 
