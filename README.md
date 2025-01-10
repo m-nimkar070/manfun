@@ -18,7 +18,7 @@ Currently, two official plugins are available:
 ## Table with year, Crop with Maximum Production and Crop with Minimum Production
 ![Table](./src//assets/TableContent.png)
 
-## Table with year, Crop with Maximum Production and Crop with Minimum Production
+## Bar cahrt with crops and yeild visualization.
 ![BarChart](./src/assets/BarChart.png)
 
 
